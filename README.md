@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshuu-143
+- 👋 Hi, I’m @Harsh Chendake
 - 👀 I’m interested in developing something new.
 - 🌱 I’m currently learning BCA.
 - 💞️ I’m looking to collaborate on ...
